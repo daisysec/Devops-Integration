@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DevopsIntegration/src/main/java/com/example/DevopsIntegration"/>
+	<classpathentry kind="src" path="DevopsIntegration/src/test/java"/>
+	<classpathentry kind="lib" path="DevopsIntegration/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="DevopsIntegration/target/test-classes"/>
+</classpath>
